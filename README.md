@@ -1,6 +1,6 @@
 # UpdateNetwork
 
-VB6 working copy of `UpdateNetwork` from Dave Robinson's OneDrive Historical Dev `VB` folder. Project title: UpdateNetwork. Output: `UpdateNetwork.exe`.
+VB6 Update Network utility (`UpdateNetwork.exe`) that broadcasts `WM_SETTINGCHANGE` for `Environment` via `SendMessageTimeout` so apps refresh environment/network settings, then exits. Open `UpdateNetwork.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
@@ -8,7 +8,7 @@ VB6 working copy of `UpdateNetwork` from Dave Robinson's OneDrive Historical Dev
 
 | Project | Language | Type | Purpose |
 |---------|----------|------|---------|
-| `UpdateNetwork` (`UpdateNetwork.vbp`) | VB6 | WinForms exe | UpdateNetwork |
+| `UpdateNetwork` (`UpdateNetwork.vbp`) | VB6 | WinForms exe | Broadcast environment setting-change to all windows |
 
 ## How to open
 
