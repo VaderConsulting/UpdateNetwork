@@ -2,7 +2,7 @@
 
 VB6 Update Network utility (`UpdateNetwork.exe`) that broadcasts `WM_SETTINGCHANGE` for `Environment` via `SendMessageTimeout` so apps refresh environment/network settings, then exits. Open `UpdateNetwork.vbp` in the VB6 IDE.
 
-**Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
+**Source last updated:** 2003-06-23 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
 ## Solution structure
 
